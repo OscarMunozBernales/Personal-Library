@@ -1,11 +1,10 @@
 # Curso profesional de Scrum
 
-Valoración: ⭐⭐⭐⭐⭐
-Estado: Terminado
-Fecha de inicio: February 24, 2022 11:47 PM
-Fecha de termino: April 25, 2022
-Página: Platzi
-Última modificación: June 24, 2022 2:00 PM
+- Valoración: ⭐⭐⭐⭐⭐
+- Estado: Terminado
+- Fecha de inicio: February 24, 2022 11:47 PM
+- Fecha de termino: April 25, 2022
+- Página: Platzi
 
 # 1. Introducción
 
